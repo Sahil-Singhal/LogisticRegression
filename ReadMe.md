@@ -90,4 +90,7 @@ for epoch in range(10000):
         print(f"iter {epoch}, w is {w}, b is {b}, cost is {cost}")
 print(f"final w is {w}, b is {b}")
 ```
+
 <img src="log reg result.png" width=500>
+
+We can see the the cost has gone down with every iteration. After the 10,000th iteration the cost is negligible. The final values of w and b are [5.28123029 5.07815608] and -14.222409982019837 respectively.
