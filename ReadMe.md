@@ -90,3 +90,4 @@ for epoch in range(10000):
         print(f"iter {epoch}, w is {w}, b is {b}, cost is {cost}")
 print(f"final w is {w}, b is {b}")
 ```
+<img src="log reg result.png" width=500>
