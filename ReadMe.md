@@ -97,7 +97,7 @@ acc = predictions == y
 print(f"Accuracy (%): {100* np.mean(acc)}")
 ```
 
-<img src="log reg result.png" width=500>
+<img src="log reg result2.png" width=500>
 
 We can see the the cost has gone down with every iteration. After the 10,000th iteration the cost is negligible. The final values of w and b are [5.28123029 5.07815608] and -14.222409982019837 respectively.
 
