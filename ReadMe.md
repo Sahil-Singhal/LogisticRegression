@@ -33,7 +33,7 @@ We can't use squared error as cost fnction for logistic regression model because
 
 Now let's implement this using Python. 
 
-```
+```python
 import numpy as np
 
 # create random values of x and y 
